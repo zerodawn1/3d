@@ -1,1 +1,26 @@
-you just need to install blender to view the model.
+
+
+most common animations.
+https://www.mixamo.com/#/ (downlaod animations as fbx)
+
+drag and drop the 3dcg hard save into the pmx/pmd converter.
+
+https://www.deviantart.com/mmd3dcg/art/TSO2PMD-303895499 (tso2pmd converts png to pmd)
+
+https://www.deviantart.com/just-jeanne/journal/TSO2PMX-tutorial-806275930 (tso2pmx converts png to pmx)
+
+The Pmx-converter is not working for me.
+
+you need blender 2.79b and the newest version of blender.
+
+blender 2.79b:
+	put the following folder mmd_tools in : Blender Foundation||blender-2.79b-windows64  
+							/blender/2.79/scripts/addons
+	
+	open blender 2.79b File/User Preferences  add-ons look for mmd_tools and activate it.
+
+	export the 3d model as fbx and open the fbx-file in the newest blender version.
+
+	( you probably have to set the object material again)
+
+	
