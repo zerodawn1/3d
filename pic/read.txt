@@ -9,6 +9,8 @@ https://www.deviantart.com/mmd3dcg/art/TSO2PMD-303895499 (tso2pmd converts png t
 
 https://www.deviantart.com/just-jeanne/journal/TSO2PMX-tutorial-806275930 (tso2pmx converts png to pmx)
 
+https://github.com/sugiany/blender_mmd_tools (mmd_tool)
+
 The Pmx-converter is not working for me.
 
 you need blender 2.79b and the newest version of blender.
